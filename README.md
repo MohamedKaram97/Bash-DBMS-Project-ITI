@@ -1,4 +1,7 @@
+
 # Bash_DBMS_Project
+![Bash Script Interface](https://github.com/MohamedKaram97/Bash-DBMS-Project-ITI/assets/154819767/5af8edd4-cd65-40af-83fc-acfc3d388804)
+
 Bash Shell Script Database Management System (DBMS):
 The Project aims to develop DBMS that will enable users to store and
 retrieve the data from Hard-disk.
